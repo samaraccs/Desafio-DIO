@@ -22,10 +22,10 @@ if(saldoRankeadas <= 10){
   else if(saldoRankeadas <= 80){
     nivel = "Ouro" 
 }
-   else if(qsaldoRankeadas <= 90){
+   else if(saldoRankeadas <= 90){
     nivel = "Diamante"
 }
-    else if(quantidadeXP <= 100){
+    else if(saldoRankeadas <= 100){
     nivel = "Lendário"
 }
     else{
