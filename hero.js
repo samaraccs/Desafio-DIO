@@ -37,7 +37,7 @@ default:
   }
   
   
- let chosenHero = new yourHero("Jurandir", 45, "monge")
+ let chosenHero = new yourHero("Taylor", 33, "guerreiro")
   
  chosenHero.writing()
   
